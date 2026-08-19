@@ -1,0 +1,16 @@
+{
+  "last_update": "2026-08-15T00:00:00Z",
+  "disabled": false,
+  "providers": [
+    {
+      "id": "duckai",
+      "name": "Duck AI",
+      "webUrl": "https://duck.ai/chat?ia=chat",
+      "logoUrl": "https://duckduckgo.com/assets/logo_homepage.normal.v108.svg",
+      "iconName": "psychology",
+      "description": "DuckDuckGo's Free & Privacy focused AI Chat",
+      "inputSelector": "textarea[name=\"user-prompt\"]",
+      "sendSelector": "button[aria-label=\"Ask\"]"
+    }
+  ]
+}
